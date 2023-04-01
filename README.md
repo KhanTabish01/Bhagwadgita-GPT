@@ -1,0 +1,2 @@
+# Bhagwadgita-GPT
+Mini project
